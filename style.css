@@ -1,0 +1,35 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f2f2f2;
+}
+
+h1{
+color:#333;
+}
+
+input{
+padding:10px;
+margin:5px;
+}
+
+button{
+padding:10px 15px;
+background:green;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+li{
+list-style:none;
+margin:10px;
+}
+button{
+margin-left:10px;
+background:red;
+color:white;
+padding:5px 10px;
+border:none;
+cursor:pointer;
+}
