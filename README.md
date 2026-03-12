@@ -11,6 +11,9 @@ This is a simple web app to track daily expenses.
 HTML
 CSS
 JavaScript
+## Screenshot
+
+![Expense Tracker](screenshot.png)
 
 ## Live Demo
 https://Sadhiyasulthana.github.io/expense-tracker
